@@ -8,6 +8,8 @@ I have changed this repository to be private for the sake of code protection.
 
 *Sincerely,*
 
-        Josie Paananen
+Josie Paananen
+
+
 
 **Thank you for understanding!**
