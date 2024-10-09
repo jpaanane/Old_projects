@@ -1,6 +1,6 @@
 # Update: This page has currently moved!
 
-Dear Prospective Employers!
+Dear Prospective Employers, 
 
 Please email me with your Github username for me to add you as a collaborator on my current course works page.
 
